@@ -1,4 +1,4 @@
-## Welcome to Watch Your Head
+## Watch Your Head
 
 This is a game that uses OpenCV to detect where your face is using your computer's webcam.
 The aim of the game is to avoid as many falling balls as possible. If your head touches a ball you lose!
